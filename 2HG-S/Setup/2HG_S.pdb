@@ -1,0 +1,13 @@
+REMARK original generated coordinate pdb file
+ATOM      1  CG  AKG A 403     -29.718   1.830  45.920  1.00  0.00      X    C
+ATOM      2  C   AKG A 403     -29.660   3.271  45.615  1.00  0.00      X    C
+ATOM      3  CB  AKG A 403     -30.820   5.070  44.441  1.00  0.00      X    C
+ATOM      4  CD  AKG A 403     -31.683   5.428  43.237  1.00  0.00      X    C
+ATOM      5  OG2 AKG A 403     -30.471   1.115  45.160  1.00  0.00      X    O
+ATOM      6  OG1 AKG A 403     -28.940   1.353  46.799  1.00  0.00      X    O
+ATOM      7  O   AKG A 403     -28.517   3.510  46.139  1.00  0.00      X    O
+ATOM      8  OE2 AKG A 403     -32.047   6.623  43.240  1.00  0.00      X    O
+ATOM      9  CA  AKG A 403     -30.550   3.675  44.717  1.00  0.00      X    N
+ATOM     10  OE1 AKG A 403     -31.997   4.584  42.315  1.00  0.00      X    O
+ATOM     11  H   AKG A 403     -30.241   3.932  46.549  1.00  0.00      X    H
+END

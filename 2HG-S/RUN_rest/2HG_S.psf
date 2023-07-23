@@ -1,0 +1,63 @@
+PSF
+
+       9 !NTITLE
+ REMARKS original generated structure x-plor psf file
+ REMARKS topology 2HG_R.top 
+ REMARKS topology top_all36_lipid.rtf 
+ REMARKS topology top_all36_na.rtf 
+ REMARKS topology top_all36_carb.rtf 
+ REMARKS topology top_all36_cgenff.rtf 
+ REMARKS topology toppar_all36_carb_glycopeptide.str 
+ REMARKS topology toppar_water_ions_namd.str 
+ REMARKS segment X { first NONE; last NONE; auto angles dihedrals }
+
+      11 !NATOM
+       1 X    403  AKG  CG   CG     0.000000       12.0107           0
+       2 X    403  AKG  C    C      0.000000       12.0107           0
+       3 X    403  AKG  CB   CB     0.000000       12.0107           0
+       4 X    403  AKG  CD   CD     0.000000       12.0107           0
+       5 X    403  AKG  OG2  OG2    0.000000       15.9994           0
+       6 X    403  AKG  OG1  OG1    0.000000       15.9994           0
+       7 X    403  AKG  O    O      0.000000       15.9994           0
+       8 X    403  AKG  OE2  OE2    0.000000       15.9994           0
+       9 X    403  AKG  CA   CA     0.000000       14.0067           0
+      10 X    403  AKG  OE1  OE1    0.000000       15.9994           0
+      11 X    403  AKG  H    H      0.000000        1.0079           0
+
+      10 !NBOND: bonds
+       1       2       1       6       1       5       2       7
+       2       9       2      11       3       4       3       9
+       4       8       4      10
+
+      14 !NTHETA: angles
+       1       2      11       1       2       9       1       2       7
+       2       9       3       2       1       5       2       1       6
+       3       4      10       3       4       8       4       3       9
+       6       1       5       7       2      11       7       2       9
+       8       4      10       9       2      11
+
+      12 !NPHI: dihedrals
+       1       2       9       3       2       9       3       4
+       3       9       2      11       3       9       2       7
+       5       1       2      11       5       1       2       9
+       5       1       2       7       6       1       2      11
+       6       1       2       9       6       1       2       7
+       8       4       3       9       9       3       4      10
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+       0       0       0
+
+       1       0 !NGRP
+       0       0       0
+
